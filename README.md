@@ -1,3 +1,3 @@
 # Imblanced-dataSet
 this is new concept for handling imblanced data set
-##Notes must be respect
+## Notes must be respect
